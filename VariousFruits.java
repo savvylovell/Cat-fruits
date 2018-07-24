@@ -1,10 +1,3 @@
-/*
-*Course: CS 1302
-*Section: Summer 2018
-*Professor: Sarah North
-*Name: Savhannah Lovell
-*Assignment #:8.1
-*/
 //I used cats dressed as fruits for all the fruits in the program!
 import javafx.application.Application;
 import javafx.stage.Stage;
